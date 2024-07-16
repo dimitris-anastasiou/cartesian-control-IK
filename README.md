@@ -1,7 +1,7 @@
 # Cartesian Control and Inverse Kinematics for Robotic Arms
 
 ## Objective
-This project involves developing a node capable of performing Cartesian Control and Numerical Inverse Kinematics (IK) for robotic arms. The pproject required working with the UR5 and Franka Panda robotic arms in a simulated environment using ROS2. The main objectives were to achieve precise Cartesian control of the robot's end-effector and implement an effective IK solution.
+This project involves developing a node capable of performing Cartesian Control and Numerical Inverse Kinematics (IK) for robotic arms. The project required working with the UR5 and Franka Panda robotic arms in a simulated environment using ROS2. The main objectives were to achieve precise Cartesian control of the robot's end-effector and implement an effective IK solution.
 
 ## Key Features
 
