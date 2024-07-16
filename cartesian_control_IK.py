@@ -16,8 +16,7 @@ import transforms3d
 import transforms3d._gohlketransforms as tf
 from threading import Thread, Lock
 
-'''This is a class which will perform both cartesian control and inverse
-   kinematics'''
+
 class CCIK(Node):
     def __init__(self):
         super().__init__('ccik')
