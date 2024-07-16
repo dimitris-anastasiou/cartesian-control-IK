@@ -13,4 +13,4 @@ This project involves developing a node capable of performing Cartesian Control 
    - IK solver to determine the joint positions required to place the end-effector at a specific pose relative to the robot's base.
 
 ## Project Structure
-- **cartesian_control_IK.py**: Main script for implementing Cartesian control and inverse kinematics.
+- `cartesian_control_IK.py`: Main script for implementing Cartesian control and inverse kinematics.
